@@ -1,5 +1,5 @@
 #!/bin/python3
-# ENCODE BY KHANHNGUYEN9872                                 # Write your comment here! 
+# ENCODE BY KHANHNGUYEN9872                                 # Quyền
 # Version OBF: v2.3.0                                       # Write your comment here! 
 # Botname: @KazutoBot_bot                                   # Write your comment here! 
 # Username Obf: @None (6321328587)                          # Write your comment here! 
